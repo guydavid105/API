@@ -1,2 +1,5 @@
-#list of dataframes for the LMI API 
-#the 3rddata frame is too large that the LMI API experinces difficulies in getting all the information so the dataframe is incomplete passed around the 100th entry
+"#list of data frames for the LMI API" 
+"#the 3rd data frame is too large that the LMI API experinces difficulies in getting all the information so the dataframe is incomplete passed around the 100th entry"
+"first data frame is all the SOC codes and their job titles and info"
+"second data frame is the hours, weekly earnings and change of each SOC code"
+"third data frame is the vacancies for each additonal title for every SOC code"
