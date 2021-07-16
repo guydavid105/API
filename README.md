@@ -3,3 +3,5 @@
 "first data frame is all the SOC codes and their job titles and info"
 "second data frame is the hours, weekly earnings and change of each SOC code"
 "third data frame is the vacancies for each additonal title for every SOC code"
+"4th dataframe shows the skill shortage vacanvies and hard to find vacancies of different SOC codes based on region"
+"5th dataframe shows the importance of diferent skill for a job"
